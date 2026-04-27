@@ -22,7 +22,6 @@
 
 ```ts
 const joshua = {
-  location:  "Taguig City, PH 🇵🇭",
   role:      "Solo dev / vibe-coder",
   building:  ["LaborQuest.app", "Three.js life sim", "AI side projects"],
   playing:   ["Dota 2", "Sintopia", "GTA V"],
